@@ -1,6 +1,6 @@
 # Devin demo: Spec to a recorded end-to-end feature
 
-**What it shows:** Turning a written spec into working, tested software. Devin implements the API and UI, writes a test for each acceptance criterion, records the real UI in a browser, and maps every criterion to a test or video timestamp in the PR.
+**What it shows:** Devin implements a feature from a written spec, writes a test for each acceptance criterion, records the UI in a browser, and maps each criterion to a test or video timestamp in the PR.
 
 **Needs:** GitHub only
 
