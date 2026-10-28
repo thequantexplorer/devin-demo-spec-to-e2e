@@ -1,0 +1,9 @@
+{
+  "name": "acme-kanban",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Team kanban board (Express + vanilla JS, JSON file storage)",
+  "scripts": { "start": "node server/index.js", "test": "node --test" },
+  "dependencies": { "express": "^4.21.2" },
+  "devDependencies": { "supertest": "^7.0.0" }
+}
